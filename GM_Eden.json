@@ -1,0 +1,127 @@
+{
+    "dedicatedServerId": "ElDuko-TAS",
+    "region": "EU-FFM",
+    "gameHostBindAddress": "LOCAL IP",
+    "gameHostBindPort": 2001,
+    "gameHostRegisterBindAddress": "PUBLIC IP",
+    "gameHostRegisterPort": 2001,
+    "adminPassword" : "CHANGE ME",
+    "game": {
+        "name": "ElDuko-TAS",
+        "password": "cheese",
+        "scenarioId": "{59AD59368755F41A}Missions/21_GM_Eden.conf",
+        "playerCountLimit": 10,
+        "autoJoinable": true,
+        "visible": true,
+        "gameProperties": {
+            "serverMaxViewDistance": 1500,
+            "serverMinGrassDistance": 50,
+            "networkViewDistance": 1000,
+            "disableThirdPerson": false,
+            "fastValidation": true,
+            "battlEye": false
+        },
+        "mods": [
+            {
+				"modId": "59633836769F75D8",
+				"name": "Infinite Stamina",
+				"version": "1.0.3"
+			},
+            {
+				"modId": "5966D11A1A257FC3",
+				"name": "SaVz58",
+				"version": "0.0.4"
+			},
+            {
+				"modId": "59667D12E8D31B62",
+				"name": "Unflip Vehicles",
+				"version": "0.2.5"
+			},
+            {
+				"modId": "59664C0CB36501CD",
+				"name": "BloodLust2",
+				"version": "0.3.0"
+			},
+			{
+				"modId": "59673B6FBB95459F",
+				"name": "BetterTracers",
+				"version": "1.0.5"
+			},           
+            {
+				"modId": "59651354B2904BA6",
+				"name": "BetterHitsEffects",
+				"version": "2.0.0"
+			},
+            {
+				"modId": "596A46029747E4D5",
+				"name": "FlareGun",
+				"version": "1.0.1"
+			},
+            {
+				"modId": "5964E0B3BB7410CE",
+				"name": "Crows Zeus Additions",
+				"version": "1.0.1"
+			},
+            {
+				"modId": "596B5084F5B272D7",
+				"name": "RPG Expanded",
+				"version": "1.0.26"
+			},
+            {
+				"modId": "59674C21AA886D57",
+				"name": "BetterMuzzleFlashes",
+				"version": "1.0.2"
+			},
+            {
+				"modId": "596A0B2FA7A920D1",
+				"name": "Extended Adjusted Stance",
+				"version": "0.4.1"
+			},
+            {
+				"modId": "596D088FA6A85333",
+				"name": "Extended Stance Indicator",
+				"version": "1.0.0"
+			},
+            {
+				"modId": "596CF2E9A8058DBD",
+				"name": "Stance Indicator HUD",
+				"version": "0.9.0"
+			},
+            {
+				"modId": "596D53EEBBC7BA3D",
+				"name": "Minimal Vehicle HUD",
+				"version": "1.0.0"
+			},
+            {
+				"modId": "596F1807B2CFD6BB",
+				"name": "On Screen Compass",
+				"version": "1.0.0"
+			},
+            {
+				"modId": "596F3844EE18A6ED",
+				"name": "Extended Reload",
+				"version": "0.2.2"
+			},
+            {
+				"modId": "596CE5149F3F702A",
+				"name": "BetterDeathAnimations",
+				"version": "0.0.5"
+			},
+            {
+				"modId": "596F00811028DCC9",
+				"name": "Weapon Holstering",
+				"version": "1.0.2"
+			},
+            {
+				"modId": "597255F40BB99E37",
+				"name": "PP-19",
+				"version": "1.0.1"
+			},
+            {
+				"modId": "596C1DEFB332C0B1",
+				"name": "Weapon Camera Shake",
+				"version": "0.1.4"
+			}
+        ]
+    }
+}
